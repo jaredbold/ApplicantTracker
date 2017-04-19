@@ -1,0 +1,1 @@
+This project is designed to be a web application to track applicants through the hiring process, from the time that a manager decides to hire them, to the time that they accept or decline the final offer.
